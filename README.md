@@ -25,10 +25,10 @@ operations for task management.
 
 The following testing types were performed:
 
--   ✅ Functional Testing\
--   ✅ Negative Testing\
--   ✅ Validation Testing\
--   ✅ API Testing using Postman\
+-   ✅ Functional Testing
+-   ✅ Negative Testing
+-   ✅ Validation Testing
+-   ✅ API Testing using Postman
 -   ✅ Database Verification using MongoDB Compass
 
 ------------------------------------------------------------------------
