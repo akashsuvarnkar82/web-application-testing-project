@@ -35,20 +35,20 @@ The following testing types were performed:
 
 ## 📊 Test Artifacts Included
 
--   📄 Test Plan Document\
--   📑 25+ Detailed Test Cases\
--   🐞 Bug Report Sheet\
--   📮 Postman Collection\
+-   📄 Test Plan Document
+-   📑 25+ Detailed Test Cases
+-   🐞 Bug Report Sheet
+-   📮 Postman Collection
 -   📸 Execution Screenshots
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tools & Technologies Used
 
--   Node.js\
--   Express.js\
--   MongoDB\
--   Postman\
+-   Node.js
+-   Express.js
+-   MongoDB
+-   Postman
 -   Microsoft Excel
    
 ------------------------------------------------------------------------
